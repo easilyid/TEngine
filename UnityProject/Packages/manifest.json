@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.fantasy.unity": "file:../../../../Packages/Fantasy/Fantasy.Packages/Fantasy.Unity",
+    "com.fantasy.unity": "file:../../../Packages/Fantasy/Fantasy.Packages/Fantasy.Unity",
     "com.code-philosophy.hybridclr": "https://gitee.com/focus-creative-games/hybridclr_unity.git",
     "com.unity.ai.navigation": "2.0.9",
     "com.unity.ide.rider": "3.0.38",
